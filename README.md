@@ -5,10 +5,11 @@
 
 Here are some ideas to get you started: -->
 
+I'm a curious developer and linguist. I do some scraping (Python) that goes to some database (SQLite3) that then I use for improving and adding things to my iOS and Android app.
 
-
-- 🔭 I’m currently working on my Ukrainian app for Android with Kotlin + Jetpack Compose (Java and XML version available in the PlayStore).
-- 🌱 I’m currently learning Kotlin, Python, Java, Selenium, Javascript.
+- 🔭 I’m currently working on my Ukrainian app for iOS (SwiftUI) and Android (Kotlin and XML). Both available in the AppStore and Playstore 😄
+  - Feel free to take a look, just search "ucraniano" on the stores. App localization incoming :)
+- 🌱 Currently learning Kotlin, SwiftUI, Python, Java, Selenium, Javascript.
 
 
 
